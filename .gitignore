@@ -1,3 +1,6 @@
 env/
 scripts/*.pyc
+api/*.pyc
 accounts.db
+app_plus.py
+

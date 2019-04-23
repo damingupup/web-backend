@@ -7,7 +7,7 @@ Steps to run this app:
 
 3. pip install -r requirements.txt
 
-4. python app.py
+4. python complex.py
 
 
 ## To Do List:
