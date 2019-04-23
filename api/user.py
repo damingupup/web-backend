@@ -14,7 +14,7 @@ USERS = [
 
 
 @api.route('/')
-class DogList(Resource):
+class UserList(Resource):
     @api.doc('list_users')
     @api.marshal_list_with(user)
     def get(self):
