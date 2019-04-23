@@ -4,3 +4,4 @@ api/*.pyc
 accounts.db
 app_plus.py
 
+scripts/

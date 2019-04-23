@@ -10,10 +10,10 @@ Steps to run this app:
 4. python complex.py
 
 
-## To Do List:
-* build the fundamental architecture of flask routing APIs based on flask rest plus.
-* Adding all API routing rules required from [API doc](https://github.com/chinese-bbb/documents/blob/master/api-summary.md)
-* Study Sqlite integration with Flask. Compose all required schema and test it.
-* Adding [flask documentation generation](https://flask-restplus.readthedocs.io/en/0.2/documenting.html) support -- Finished
-* Adding [flask unit test module](http://flask.pocoo.org/docs/1.0/testing/)
+### To Do List:
 
+- [x] build the fundamental backends based on flask rest plus and test out its functionality
+- [x] Adding [flask documentation generation](https://flask-restplus.readthedocs.io/en/0.2/documenting.html) support
+- [ ] Adding all API routing rules required from [API doc](https://github.com/chinese-bbb/documents/blob/master/api-summary.md)
+- [ ] Complete the authentication phase (log-in and logout) 
+- [ ] Adding [flask unit test module](http://flask.pocoo.org/docs/1.0/testing/)
